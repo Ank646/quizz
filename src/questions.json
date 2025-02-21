@@ -1,0 +1,51 @@
+[
+    {
+      "category": "Science",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "H2"],
+      "correct": "H2O"
+    },
+    {
+      "category": "Science",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct": "Mars"
+    },
+    {
+      "category": "Math",
+      "question": "What is 12 x 8?",
+      "options": ["96", "82", "108", "72"],
+      "correct": "96"
+    },
+    {
+      "category": "Math",
+      "question": "What is the square root of 64?",
+      "options": ["6", "8", "10", "12"],
+      "correct": "8"
+    },
+    {
+      "category": "History",
+      "question": "Who was the first President of the United States?",
+      "options": ["Abraham Lincoln", "George Washington", "John Adams", "Thomas Jefferson"],
+      "correct": "George Washington"
+    },
+    {
+      "category": "History",
+      "question": "In which year did World War II end?",
+      "options": ["1945", "1939", "1918", "1950"],
+      "correct": "1945"
+    },
+    {
+      "category": "Geography",
+      "question": "Which is the largest continent by area?",
+      "options": ["Africa", "Asia", "Europe", "North America"],
+      "correct": "Asia"
+    },
+    {
+      "category": "Geography",
+      "question": "What is the capital of Japan?",
+      "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+      "correct": "Tokyo"
+    }
+  ]
+  
